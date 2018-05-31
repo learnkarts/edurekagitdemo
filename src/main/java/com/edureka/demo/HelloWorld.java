@@ -1,4 +1,4 @@
-package src.com.demo.edureka;
+package src.main.java.com.edureka.demo;
 
 public class HelloWorld {
 
